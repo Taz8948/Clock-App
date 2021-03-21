@@ -47,6 +47,5 @@ function Time() {
                   <img src={Arrow} alt="up arrow" />
               </div>
             </button>
-
         </section>)
 }
