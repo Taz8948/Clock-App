@@ -39,9 +39,7 @@ function Time() {
                     In {city}, {countryCode}
                 </p>
             </div>
-            <button 
-              onClick={()=>props.setExpanded(true)}
-              className="bold">
+            <button onClick={()=>props.setExpanded(true)} className="bold">
               <div className="test">More</div>
               <div className="circle">
                   <img src={Arrow} alt="up arrow" />
